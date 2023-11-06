@@ -16,7 +16,7 @@ Specifically, where a defined policy blocks use of this feature, the {{jsxref("P
 ## Syntax
 
 ```http
-Permissions-Policy: publickey-credentials-create=<allowlist>;
+Permissions-Policy: publickey-credentials-create=<allowlist>,
 ```
 
 - `<allowlist>`
